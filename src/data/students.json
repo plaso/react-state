@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Pepe",
+        "age": 20,
+        "id": "1",
+        "bio": "lorem ipsum"
+    },
+    {
+        "name": "Maria",
+        "age": 21,
+        "id": "2"
+    }
+]
